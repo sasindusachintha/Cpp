@@ -51,6 +51,7 @@ Example:
 
 g++ easy/circle-area.cpp -o area
 ./area
+```
 🎯 Updates
 More C++ tasks will be added regularly:
 
