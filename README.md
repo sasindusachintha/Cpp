@@ -8,7 +8,9 @@ This repository is organised into three difficulty levels to track my learning p
 ## 📂 Folder Structure
 
 📁 easy/ → Beginner-level programs: variables, input/output, loops, functions
+
 📁 medium/ → Intermediate tasks: arrays, strings, file handling, structures
+
 📁 hard/ → Advanced problems: pointers, dynamic memory, classes/OOP, algorithms
 
 
