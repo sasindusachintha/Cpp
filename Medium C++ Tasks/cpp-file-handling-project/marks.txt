@@ -1,0 +1,18 @@
+sasi : 100
+pasi : 44
+kasi : 56
+balu : 67
+hasi : 88
+
+sasi : 123
+sasi : 23
+bali : 34
+ghak : 45
+dali : 67
+
+sasi : 78
+sai : 67
+saaa : 88
+sasi : 34
+sasindu : 23
+savi : 34
